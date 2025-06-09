@@ -311,5 +311,5 @@ async def define(ctx, *, word: str):
 
 
 
-client.run('MTI2NTk2MDg5OTU2MzIyOTI1Nw.GpUZfi.gHsVytvQdFab2BMy9GL3AAtvY7TA9MAKqrngtY')
+client.run('yourtoken')
     
