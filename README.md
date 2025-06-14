@@ -1,4 +1,4 @@
-# 🎉 Introducing General Purpose Bot: Your Ultimate Discord Companion! 🎉
+# Introducing General Purpose Bot:
 Feel free to use this code anywhere with any type of bot you like!
 
 Bot’s Features:
