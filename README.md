@@ -3,12 +3,12 @@ Feel free to use this code anywhere with any type of bot you like!
 
 Bot’s Features:
 
-✨ Fun and Informative Commands:
+ Fun and Informative Commands:
 	•	/define [word]: Get definitions from Urban Dictionary for any term. Perfect for settling debates or learning new slang!
 	•	/google [query]: Perform a Google search and receive the top result directly in the chat. Fast and convenient for quick 
                 information!
 
-🔧 Moderation Tools:
+ Moderation Tools:
 	•	/kick [member] [reason]: Remove a member from the server with a specified reason.
 	•	/ban [member] [reason]: Ban a member with an optional reason to keep the server safe.
 	•	/unban [user_id] [reason]: Unban a user using their ID and a reason if they’ve been wrongfully banned.
@@ -20,11 +20,12 @@ Bot’s Features:
 	•	/purge [amount] [user] [start_time] [end_time]: Clear messages from the channel based on various filters, including user 
                  and time range.
 
-🎈 Warm Welcomes:
+ Warm Welcomes:
 	•	New members receive a friendly welcome message as they join our community.
 
-🔧 Dynamic Role Management:
-	•	Mute Role: Automatically creates a “Muted” role if one doesn’t exist, ensuring consistent muting functionality across the server.
+ Dynamic Role Management:
+	•	Mute Role: Automatically creates a “Muted” role if one doesn’t exist, ensuring consistent muting functionality across the 
+                server.
 
-⚠️ Friendly Error Handling:
+ Friendly Error Handling:
 	•	Clear and helpful responses to guide you if any issues arise with commands.
